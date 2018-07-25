@@ -1,0 +1,1 @@
+"./Buttons.obj" "./Graphics.obj" "./Nokia5110.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "/home/cliente/ti/SW-TM4C-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
